@@ -1,3 +1,9 @@
+# 🧩 Summary of What the Code Does
+# ✔ Computes Schwarzschild radius
+# ✔ Checks if the observer is outside the event horizon
+# ✔ Computes gravitational time dilation using GR
+# ✔ Returns both the numeric factor and a readable explanation
+
 from dataclasses import dataclass
 import math
 
