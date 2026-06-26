@@ -1,3 +1,5 @@
+# skills/scenario_comparison_skill.py
+
 from skills.relativistic_computation_skill import RelativisticComputationSkill
 
 
