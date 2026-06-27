@@ -95,12 +95,6 @@ Gravitas AI makes it:
 
 ---
 
-## 🎥 Demo Video
-
-A full demo video script is included in this repository.
-
----
-
 ## 📜 License
 
 This project is released for educational and research purposes as part of the VibeCoding AI Agents Intensive.
