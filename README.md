@@ -45,3 +45,63 @@ This project is my submission for the **VibeCoding AI Agents Capstone Project**.
 
 ## 📁 Project Structure
 
+/gravitas_ai
+agent.yaml
+main.py
+/tools
+/skills
+README.md
+
+---
+
+## 🧪 Example Capabilities
+
+### Time Dilation Near Sagittarius A\*
+- Computes Schwarzschild radius  
+- Calculates time dilation at multiple radii  
+- Produces intuitive + technical explanations  
+
+### Orbit Simulation
+- Generates 2D orbital trajectories  
+- Produces JSON plot specifications  
+
+### Gravitational Lensing
+- Computes weak‑field deflection angles  
+- Validates physical parameters  
+
+---
+
+## 🧠 How It Works
+
+1. User asks a natural‑language question  
+2. Agent builds a structured scenario  
+3. Tools perform physics calculations  
+4. Skills orchestrate reasoning  
+5. Agent validates physical plausibility  
+6. Explanations and visualizations are generated  
+
+---
+
+## 🎓 Why This Matters
+
+General relativity is mathematically complex.  
+Gravitas AI makes it:
+
+- accessible  
+- interactive  
+- accurate  
+- safe  
+- grounded in real astrophysical data  
+
+---
+
+## 🎥 Demo Video
+
+A full demo video script is included in this repository.
+
+---
+
+## 📜 License
+
+This project is released for educational and research purposes as part of the VibeCoding AI Agents Intensive.
+
